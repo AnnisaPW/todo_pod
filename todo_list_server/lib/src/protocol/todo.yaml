@@ -1,0 +1,9 @@
+class: Todo
+table: todo
+fields:
+  todoId: String
+  title: String
+  description: String
+  isDone: bool
+  createdAt: String?
+  updatedAt: String?
